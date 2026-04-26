@@ -16,6 +16,7 @@ index=windows EventCode=4625
 ## Findings
 Multiple failed login attempts were observed within a short timeframe, followed by a successful login.
 The source of the login attempts appeared consistent across events.
+The activity occurred during normal working hours, which slightly reduces the likelihood of automated attack behavior.
 
 ## Analysis
 While this pattern may suggest credential guessing or brute-force activity, it may also result from normal user behavior such as repeated incorrect password entry.
