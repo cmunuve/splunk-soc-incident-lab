@@ -22,6 +22,7 @@ The parent process did not clearly match common administrative tools or schedule
 Encoded PowerShell commands are commonly used to obfuscate script content and may indicate malicious intent.
 However, certain legitimate scripts may also use encoding for data handling or automation purposes.
 The lack of clear association with expected administrative activity increases the level of suspicion.
+If the encoded command were to initiate external communication or download content, this would significantly increase the likelihood of malicious behavior.
 
 ## Conclusion
 
