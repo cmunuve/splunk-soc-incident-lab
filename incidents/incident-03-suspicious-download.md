@@ -17,6 +17,7 @@ index=proxy OR index=web
 ## Findings
 The user downloaded an executable file from an external website.
 The domain did not match commonly used or trusted sources within the environment.
+No prior history of similar downloads was observed for this user account.
 
 ## Analysis
 Executable downloads from external sources may indicate phishing or delivery of malicious payloads.
