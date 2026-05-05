@@ -17,6 +17,7 @@ index=windows ("whoami" OR "net localgroup administrators")
 ## Findings
 Commands related to privilege enumeration were executed on the system.
 The activity involved commands commonly used to identify user privileges and group memberships.
+The account performing the activity did not clearly align with known administrative roles within the environment.
 
 ## Analysis
 Privilege enumeration commands are often used by attackers after gaining initial access to understand system permissions.
