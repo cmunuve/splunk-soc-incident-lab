@@ -28,6 +28,8 @@ There is no confirmed evidence that all events originated from the same user, ho
 
 Without clear linkage, the events cannot be definitively classified as a single coordinated incident.
 
+This analysis highlights the importance of avoiding assumptions when correlating alerts and reinforces the need for sufficient evidence before declaring an incident.
+
 ## Conclusion
 
 The observed activity presents a pattern consistent with common attack techniques, but remains unconfirmed.
