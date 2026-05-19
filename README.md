@@ -19,4 +19,27 @@ This project includes multiple simulated incidents representing common SOC alert
 - Suspicious process execution  
 - Potential phishing activity  
 - Privilege-related activity  
-- Suspicious network behavior  
+- Suspicious network behavior
+
+  ## Skills Demonstrated
+
+- SIEM investigation using Splunk  
+- Log analysis and event correlation  
+- Authentication anomaly investigation  
+- PowerShell activity analysis  
+- Incident documentation and reporting  
+- Threat detection and alert triage  
+- Structured investigation methodology  
+
+## MITRE ATT&CK Techniques Referenced
+
+- T1110 – Brute Force  
+- T1059 – Command and Scripting Interpreter  
+- T1566 – Phishing  
+- T1087 – Account Discovery  
+
+## Key Takeaways
+
+This project reinforced the importance of evidence-based investigation and avoiding assumptions during alert analysis.
+
+It also highlighted how seemingly isolated alerts may require correlation before determining whether malicious activity has occurred.
